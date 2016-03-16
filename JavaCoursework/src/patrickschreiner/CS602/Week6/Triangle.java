@@ -1,3 +1,6 @@
+//Triangle class implements the Shape class and applies
+//the necessary parameters of a triangle.
+
 package patrickschreiner.CS602.Week6;
 
 /**

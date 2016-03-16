@@ -1,3 +1,6 @@
+//Implementation of the Directory, adding user functionality for using the find,
+//add, and delete functions.
+
 package patrickschreiner.CS113.FinalProject;
 
 import java.io.*;

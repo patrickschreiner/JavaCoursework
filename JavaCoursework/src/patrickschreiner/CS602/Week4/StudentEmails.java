@@ -1,3 +1,7 @@
+//StudentEmails class takes data from a text file, parses the
+//contents using a StringTokenizer, and formats the data into
+//usable email addresses in a new txt file.
+
 package patrickschreiner.CS602.Week4;
 
 import java.io.*; 

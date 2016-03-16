@@ -1,3 +1,5 @@
+//Rout2 is another router on the network with its own unique costs
+
 package patrickschreiner.CS356.Router;
 
 import java.io.*;

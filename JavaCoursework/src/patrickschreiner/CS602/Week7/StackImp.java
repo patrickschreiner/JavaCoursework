@@ -1,3 +1,6 @@
+//StackImp class implements the Stack interface and
+//implements the necessary functionality of a stack.
+
 package patrickschreiner.CS602.Week7;
 
 /**

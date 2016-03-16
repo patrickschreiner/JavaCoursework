@@ -1,3 +1,6 @@
+//Methods for creating an array that allows the user to find,
+//add, or delete users if necessary.
+
 package patrickschreiner.CS113.FinalProject;
 
 import java.io.*;

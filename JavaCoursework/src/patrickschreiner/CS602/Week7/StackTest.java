@@ -1,3 +1,7 @@
+//StackTest class is a JUnit Test Case which ensures the
+//methods of StackImp class are implemented properly and
+//run as expected.
+
 package patrickschreiner.CS602.Week7;
 
 import junit.framework.TestCase;

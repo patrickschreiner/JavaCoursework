@@ -1,3 +1,6 @@
+//Average class takes a txt file from the command line, counts the number
+//of inputs, and finds their average.
+
 package patrickschreiner.CS602.Week4;
 
 import java.io.BufferedReader;

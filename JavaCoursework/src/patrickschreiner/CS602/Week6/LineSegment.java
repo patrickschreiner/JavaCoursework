@@ -1,3 +1,6 @@
+//LineSegment class implements the Shape class and applies
+//the necessary parameters of a line segment.
+
 package patrickschreiner.CS602.Week6;
 
 /**

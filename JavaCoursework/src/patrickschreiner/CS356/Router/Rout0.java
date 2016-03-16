@@ -1,3 +1,6 @@
+//Rout 0 is the starting router, which uses dijkstra's algorithm to find
+//the least-cost path to the other three routers, and updates its cost table
+
 package patrickschreiner.CS356.Router;
 
 import java.io.*;

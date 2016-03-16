@@ -1,3 +1,6 @@
+//Shape class is an interface which simply denotes a toString
+//method to be implemented in classes which use the interface
+
 package patrickschreiner.CS602.Week6;
 
 /**

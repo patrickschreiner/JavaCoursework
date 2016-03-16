@@ -1,3 +1,6 @@
+//Stack class is an interface for a stack and the
+//necessary methods.
+
 package patrickschreiner.CS602.Week7;
 
 /**

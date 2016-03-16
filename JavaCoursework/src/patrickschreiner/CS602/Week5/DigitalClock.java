@@ -1,3 +1,8 @@
+//DigitalClock is a Java Applet which formats the time into a
+//readable clock with time, month, day, day of week, AM/PM
+//as well as a roman numeral representation of the time. 
+//It also "dings" on every quarter hour.
+
 package patrickschreiner.CS602.Week5;
 
 import java.awt.*;

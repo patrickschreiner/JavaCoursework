@@ -1,3 +1,5 @@
+//Instructor class is a sub-class of Employee, applying the necessary parameters
+
 package patrickschreiner.CS113.FinalProject;
 
 public class Instructor extends Employee

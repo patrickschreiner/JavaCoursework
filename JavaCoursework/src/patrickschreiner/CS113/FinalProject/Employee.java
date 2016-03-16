@@ -1,3 +1,5 @@
+//Employee class is a sub-class of Person, applying the necessary parameters
+
 package patrickschreiner.CS113.FinalProject;
 
 public class Employee extends Person

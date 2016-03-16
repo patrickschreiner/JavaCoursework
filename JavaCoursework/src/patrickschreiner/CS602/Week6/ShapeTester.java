@@ -1,3 +1,7 @@
+//ShapeTester class reads text notation information about shapes
+//and creates objects based on their classification, then
+//stores them in an array of type Shape and prints them.
+
 package patrickschreiner.CS602.Week6;
 
 import java.io.*;   

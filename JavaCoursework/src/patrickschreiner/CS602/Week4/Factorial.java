@@ -1,3 +1,6 @@
+//Factorial class is a simple program which takes an argument from
+//the command line, and calculates its factorial iteratively.
+
 package patrickschreiner.CS602.Week4;
 
 public class Factorial 

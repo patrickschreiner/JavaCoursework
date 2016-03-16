@@ -1,3 +1,5 @@
+//Person class is the superclass for the directory, applying the necessary parameters
+
 package patrickschreiner.CS113.FinalProject;
 
 public class Person

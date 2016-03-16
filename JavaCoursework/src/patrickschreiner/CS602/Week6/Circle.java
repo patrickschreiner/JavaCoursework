@@ -1,3 +1,6 @@
+//Circle class implements the Shape class and applies
+//the necessary parameters of a circle.
+
 package patrickschreiner.CS602.Week6;
 
 /**
